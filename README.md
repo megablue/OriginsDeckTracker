@@ -67,7 +67,6 @@ The window you want is behind the tray icon: left-click summons the overlay, rig
 - Windows 10 or 11, 64-bit.
 - Origins TCG installed through Steam.
 - Microsoft Edge WebView2 — already present on Windows 11 and on any Windows 10 with Edge.
-- No account, no companion service, no browser extension.
 
 ## A few honest answers
 
