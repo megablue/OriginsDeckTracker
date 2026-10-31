@@ -103,4 +103,4 @@ Bug reports and feature requests are welcome in [Issues](https://github.com/mega
 
 ---
 
-<sub>Origins TCG and its card art belong to Koin Games. This is a community tool by [mega](https://github.com/megablue), provided as is.</sub>
+<sub>Origins TCG and its card art belong to Koin Games. This is a community tool by [megablue](https://github.com/megablue), provided as is.</sub>
