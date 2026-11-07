@@ -2,7 +2,8 @@
 
 <img src="assets/images/decktracker.png" alt="A live match: both players' sheets with card art, the deck counts and the remaining decklists" width="900">
 
-# Origins Deck Tracker
+# Origins2Win 
+# The Origins Trading Card Game Deck Tracker
 
 A lightweight, live deck tracker for **Origins TCG** — both players' zones, remaining decklists and card art in a small overlay beside the game.
 
