@@ -8,6 +8,7 @@
 A lightweight, live deck tracker for **Origins TCG** — both players' zones, remaining decklists and card art in a small overlay beside the game.
 
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11%20x64-0e7490?style=flat-square)](#requirements)
+[![Site](https://img.shields.io/badge/site-origins2.win-0284c7?style=flat-square)](https://origins2.win/)
 [![Installer](https://img.shields.io/badge/download-3%20MB-brightgreen?style=flat-square)](https://github.com/megablue/OriginsDeckTracker/releases/latest)
 [![No Electron](https://img.shields.io/badge/runtime-native%20Windows-8a5a00?style=flat-square)](#small-on-purpose)
 [![Downloads](https://img.shields.io/github/downloads/megablue/OriginsDeckTracker/total?style=flat-square)](https://github.com/megablue/OriginsDeckTracker/releases)
@@ -18,6 +19,8 @@ A lightweight, live deck tracker for **Origins TCG** — both players' zones, re
 Origins Deck Tracker sits next to Origins TCG and shows the match as it happens: your hand, your deck, both graveyards, what has been created, and how much of each decklist is left. Two slim sheets follow the game window, one per player, with the same tabs, card faces and hover cards. When the match ends, the record stays on your PC.
 
 It is an unofficial fan project by [mega](https://github.com/megablue). Not affiliated with or endorsed by Koin Games.
+
+The project's official site is [**origins2.win**](https://origins2.win/).
 
 ## What it does
 
@@ -54,9 +57,9 @@ Small also means it can stay running all evening without you noticing it.
 
 ## Install
 
-1. Download `OriginsDeckTracker_<version>_x64-setup.exe` from [Releases](https://github.com/megablue/OriginsDeckTracker/releases/latest).
+1. Download `Origins2Win_<version>_x64-setup.exe` from [Releases](https://github.com/megablue/OriginsDeckTracker/releases/latest).
 2. Run it. It installs per user — no administrator prompt.
-3. Launch **Origins Deck Tracker** from the Start menu. It appears in the notification area.
+3. Launch **Origins2Win** from the Start menu. It appears in the notification area.
 4. The first start offers to set up the game side. Point it at Origins TCG if it does not find the install itself, and let it finish. It may open and close the game a couple of times while it prepares; after that, start the game normally.
 
 The window you want is behind the tray icon: left-click summons the overlay, right-click gives you **Main**, **Settings**, **Set up game**, **Overlay** and **Quit**.
